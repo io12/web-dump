@@ -1,1 +1,1 @@
-info:elisp#Introduction
+[[info:elisp#Introduction]]
