@@ -1,1 +1,2 @@
-[[info:elisp#Introduction]]
+[[https://gnu.org][=gnu=]]
+[[https://gnu.org][~gnu~]]
